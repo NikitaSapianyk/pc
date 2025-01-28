@@ -1,0 +1,325 @@
+* {
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+}
+
+.global {
+    font-family: "Montserrat", serif;
+    font-size: 26px;
+    display: flex;
+    justify-content: center;
+}
+
+.body_index {
+    background-color: #d0d0d0;
+    width: 100%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.the_best {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.pk_block:hover {
+
+    box-shadow: 3px 3px 12px 0px;
+    transition: all 500ms ease;
+}
+
+.pk_block {
+    margin-left: 15px;
+    padding: 10px;
+    margin-top: 25px;
+    background-color: #dddddd;
+    border-radius: 15px;
+    width: 270px;
+}
+
+.pk_block p{
+    font-family: "Smooch Sans", serif;
+    padding-left: 10px;
+    padding-top: 3px;
+}
+
+.pk_block img {
+    width: 250px;
+    height: 250px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.pk_block h3 {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    font-family: "Smooch Sans", serif;
+}
+
+.pk_block a button{
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 270px;
+    height: 50px;
+    background-color: #d0d0d0;
+    border: none;
+    border-radius: 5px;
+    font-family: "Montserrat", serif;
+    
+}
+
+.pk_block a button:hover{
+    background-color: #377def;
+    transition: all 500ms ease;
+}
+
+.pk_block a{
+    color:black;
+}
+
+
+.monitor_block:hover {
+
+    box-shadow: 3px 3px 12px 0px;
+    transition: all 500ms ease;
+}
+
+.monitor_block {
+    margin-left: 15px;
+    padding: 10px;
+    margin-top: 25px;
+    background-color: #dddddd;
+    border-radius: 15px;
+    width: 270px
+}
+
+.monitor_block p{
+    font-family: "Smooch Sans", serif;
+    padding-left: 10px;
+    padding-top: 3px;
+}
+
+.monitor_block img {
+    width: 250px;
+    height: 250px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.monitor_block h3 {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    font-family: "Smooch Sans", serif;
+}
+
+.monitor_block a button{
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 270px;
+    height: 50px;
+    background-color: #d0d0d0;
+    border: none;
+    border-radius: 5px;
+    font-family: "Montserrat", serif;
+}
+
+.monitor_block a button:hover{
+    background-color: #377def;
+    transition: all 500ms ease;
+}
+
+.manitor_block a{
+    color:black;
+    
+}
+
+
+.klawiatura_block:hover {
+
+    box-shadow: 3px 3px 12px 0px;
+    transition: all 500ms ease;
+}
+
+.klawiatura_block {
+    margin-left: 15px;
+    padding: 10px;
+    margin-top: 25px;
+    background-color: #dddddd;
+    border-radius: 15px;
+    width: 270px
+}
+
+.klawiatura_block p{
+    font-family: "Smooch Sans", serif;
+    padding-left: 10px;
+    padding-top: 3px;
+}
+
+.klawiatura_block img {
+    width: 250px;
+    height: 250px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.klawiatura_block h3 {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    font-family: "Smooch Sans", serif;
+}
+
+.klawiatura_block a button{
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 270px;
+    height: 50px;
+    background-color: #d0d0d0;
+    border: none;
+    border-radius: 5px;
+    font-family: "Montserrat", serif;
+    
+}
+
+.klawiatura_block a button:hover{
+    background-color: #377def;
+    transition: all 500ms ease;
+}
+
+.klawiatura_block a{
+    color:black;
+}
+
+.myska_block:hover {
+
+    box-shadow: 3px 3px 12px 0px;
+    transition: all 500ms ease;
+}
+
+.myska_block {
+    margin-left: 15px;
+    padding: 10px;
+    margin-top: 25px;
+    background-color: #dddddd;
+    border-radius: 15px;
+    width: 270px
+}
+
+.myska_block p{
+    font-family: "Smooch Sans", serif;
+    padding-left: 10px;
+    padding-top: 3px;
+}
+
+.myska_block img {
+    width: 250px;
+    height: 130px;
+    margin-bottom: 60px;
+    margin-top: 60px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+
+.myska_block h3 {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    font-family: "Smooch Sans", serif;
+}
+
+.myska_block a button{
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 270px;
+    height: 50px;
+    background-color: #d0d0d0;
+    border: none;
+    border-radius: 5px;
+    font-family: "Montserrat", serif;
+    
+}
+
+.myska_block a button:hover{
+    background-color: #377def;
+    transition: all 500ms ease;
+}
+
+.myska_block a{
+    color:black;
+}
+
+.pidkladka_block:hover {
+
+    box-shadow: 3px 3px 12px 0px;
+    transition: all 500ms ease;
+}
+
+.pidkladka_block {
+    margin-left: 15px;
+    padding: 10px;
+    margin-top: 25px;
+    background-color: #dddddd;
+    border-radius: 15px;
+    width: 270px
+}
+
+.pidkladka_block p{
+    font-family: "Smooch Sans", serif;
+    padding-left: 10px;
+    padding-top: 3px;
+}
+
+.pidkladka_block img {
+    width: 250px;
+    height: 250px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.pidkladka_block h3 {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    font-family: "Smooch Sans", serif;
+}
+
+.pidkladka_block a button{
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 270px;
+    height: 50px;
+    background-color: #d0d0d0;
+    border: none;
+    border-radius: 5px;
+    font-family: "Montserrat", serif;
+    
+}
+
+.pidkladka_block a button:hover{
+    background-color: #377def;
+    transition: all 500ms ease;
+}
+
+.pidkladka_block a{
+    color:black;
+}
